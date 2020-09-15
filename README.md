@@ -14,6 +14,7 @@ https://downloads.mysql.com/archives/c-net/
 
 - Adicionar string de conexão para o MySQL.
 
+- Create da Base e Upload dos Dados Iniciais, seguir precedência dos relacionamentos.
 
 
 
