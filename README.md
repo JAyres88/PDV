@@ -14,7 +14,7 @@ https://downloads.mysql.com/archives/c-net/
 
 - Adicionar string de conexão para o MySQL.
 
-- Create da Base e Upload dos Dados Iniciais, seguir precedência dos relacionamentos.
+- Create da Base em UTIL e Upload dos Dados Iniciais por csv, utilizar ferramenta de import do workbench para ter acesso à seleção de Formatação de Linguagem UTF, seguir precedência dos relacionamentos para Upload.
 
 
 
