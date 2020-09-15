@@ -1,0 +1,7 @@
+"id";"tipoPessoa";"nome";"complemento";"nascimento";"telefone";"celular";"email";"email2";"cpf";"cnpj";"logAlteracao";"logCadastro";"anotacoes";"usuario"
+1;3;"Cliente ZZZ";"Cliente Padrão";"1988-06-04 10:21:08";"1144127706";"11995465101";"j88ayres@gmail.com";"jcelidonio@outlook.com";"38209760866";"";"2020-07-31 15:48:34";"2020-06-24 10:21:08";"";"admin"
+26;1;"Joao Ayres";"";"2020-08-10 14:42:47";"";"";"j88ayres@gmail.com";"";"38209760866";"";"";"2020-08-10 14:43:00";"";"admin"
+27;2;"SAAE Companhia de Saneamento Atibaia";"";"2020-08-10 14:52:32";"";"";"saae@sac.com.br";"";"888888888888888";"";"2020-08-10 16:01:47";"2020-08-10 14:52:49";"";"admin"
+28;1;"SABESP";"";"2020-08-10 14:55:05";"";"";"sabesp@sac.com.br";"";"4444444444444";"";"2020-08-10 16:05:31";"2020-08-10 14:55:34";"";"admin"
+29;1;"Maria do Prado e Pedra";"";"2020-08-13 13:18:03";"";"";"maria@pedra.com.br";"maria@rocha.com.br";"";"";"";"2020-08-13 13:18:24";"";"admin"
+30;1;"Jamila Kinoa";"";"2020-08-13 13:26:52";"";"";"camila@vulcanica.com";"loira@desitratada.com";"";"";"";"2020-08-13 13:27:25";"";"admin"

@@ -1,0 +1,4 @@
+"id";"descricao";"geraFinanceiro";"movimentaEstoque";"aceitaVale";"tipo"
+1;"Venda";1;1;1;1
+2;"Implantação de Saldo";0;1;0;0
+3;"Orçamento";0;0;0;1
