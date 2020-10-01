@@ -11,6 +11,6 @@ https://downloads.mysql.com/archives/c-net/
   -> projeto main referencia BLL - MODEL.
   -> projeto BLL referencia DAO e MODEL 
   -> projeto DAO referencia MODEL
-  -> referenciar mysql.data à partir da pasta de instalação.
+  -> referenciar mysql.data na camada dao à partir da pasta de instalação.
 
 
