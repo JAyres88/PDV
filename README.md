@@ -15,4 +15,6 @@ https://downloads.mysql.com/archives/c-net/
 
 https://www.youtube.com/watch?v=IQRCqbKlyA8
 
-https://www.youtube.com/watch?v=jHup8d5zyVY&feature=youtu.be
+https://www.youtube.com/watch?v=jHup8d5zyVY
+
+https://www.youtube.com/watch?v=SlFuCKLjbDs
