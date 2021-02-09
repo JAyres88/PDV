@@ -13,4 +13,6 @@ https://downloads.mysql.com/archives/c-net/
   -> projeto DAO referencia MODEL
   -> referenciar mysql.data na camada dao à partir da pasta de instalação.
 
+https://www.youtube.com/watch?v=IQRCqbKlyA8
 
+https://www.youtube.com/watch?v=jHup8d5zyVY&feature=youtu.be
