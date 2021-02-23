@@ -12,6 +12,15 @@ https://downloads.mysql.com/archives/c-net/
   -> projeto BLL referencia DAO e MODEL 
   -> projeto DAO referencia MODEL
   -> referenciar mysql.data na camada dao à partir da pasta de instalação.
+  
+- Schema do Banco em: 
+  - https://github.com/JAyres88/PDV/tree/master/UTIL
+
+- Procedures escritas em: 
+  - https://github.com/JAyres88/PDV/tree/master/DAO/db 
+  
+
+
 
 https://www.youtube.com/watch?v=IQRCqbKlyA8
 
